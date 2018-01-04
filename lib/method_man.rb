@@ -8,3 +8,5 @@ def greeting
   puts phrase
   puts phrase
 end
+
+greeting
